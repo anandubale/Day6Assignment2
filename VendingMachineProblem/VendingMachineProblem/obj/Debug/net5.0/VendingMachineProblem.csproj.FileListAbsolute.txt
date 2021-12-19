@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.exe
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\ref\VendingMachineProblem.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\bin\Debug\net5.0\VendingMachineProblem.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\ref\VendingMachineProblem.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\VendingMachineProblem\VendingMachineProblem\obj\Debug\net5.0\VendingMachineProblem.genruntimeconfig.cache

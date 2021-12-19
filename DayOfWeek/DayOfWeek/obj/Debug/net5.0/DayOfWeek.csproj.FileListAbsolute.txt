@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\NunitTesting\DayOfWeek\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache
